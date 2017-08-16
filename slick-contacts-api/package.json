@@ -1,0 +1,9 @@
+{
+  "name": "slick-contacts-api",
+  "version": "0.0.0",
+  "description": "slick-contacts-api",
+  "main": "server.js",
+  "author": {
+    "name": "michaeltheyeti"
+  }
+}
